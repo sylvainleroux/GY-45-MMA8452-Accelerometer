@@ -33,5 +33,5 @@ void loop()
   }
   Serial.println();
 
-  delay(1000);  // Delay here for visibility
+  delay(50);  // Delay here for visibility
 }
